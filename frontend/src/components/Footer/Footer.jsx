@@ -27,15 +27,15 @@ const Footer = () => {
             <div className="footer-content-right">
                 <h2>GET IN TOUCH</h2>
                 <ul>
-                    <li>+91 98765 43210</li>
-                    <li>manoj@gmail.com</li>
+                    <li>+91 93615 44606</li>
+                    <li>spsamy728@gmail.com</li>
                 </ul>
             </div>
            
         </div>
         <hr />
         <p className="footer-copyright">
-            Copyright 2024 &copy; ManojKumar - All Right Reserved.
+            Copyright 2025 &copy; S Periyasamy - All Right Reserved.
         </p>
     </div>
   )
